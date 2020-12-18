@@ -15,7 +15,8 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: red;
+    /* changed the color from red to powderblue */
+    --clr-accent: powderblue;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
